@@ -1,0 +1,120 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300|Open+Sans:300,400);
+
+.page {
+    margin: auto;
+    width: 1000px;
+    padding: 50px 130px 0px 130px;
+    font-family: Open Sans;
+    font-weight: 300;
+    color: #313131;
+}
+.top {
+}
+.logo {
+    font-family: Open Sans Condensed;
+    font-size: 90px;
+    font-weight: 700;
+}
+.logo span {
+    color: #ff6c00;
+}
+.occupation {
+    margin-top: -17px;
+    margin-left: 7px;
+    font-size: 24px;
+
+}
+.call_me {
+    font-size: 21px;
+    float: right;
+    margin-top: 60px;
+    line-height: 2;
+    text-align: right;
+}
+.main {
+}
+.menu {
+    float: left;
+    width: 230px;
+    margin-top: 100px;
+    line-height: 1;
+    font-size: 42px;
+    color: #ff6c00;
+}
+.menu a {
+    color: #313131;
+    text-decoration: none;
+}
+.menu a:hover {
+    color: #ff6c00;
+}
+.menu a.portfol {
+    color: #ff6c00;
+}
+.menu a.portfol:hover {
+    color: #313131;
+}
+
+.info {
+    margin-top: 20px;
+    text-align: right;
+    width: 760px;
+    padding-right: 10px;
+    float: left;
+    height: 560px;
+    font-size: 20px;
+}
+.info span {
+    font-weight: 400
+}
+.text {
+    margin-top: 20px;
+    margin-left: 35px;
+    width: 735px;
+    float: left;
+    height: auto;
+    margin-bottom: 10px;
+}
+.text span {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.company {
+    font-size: 21px;
+}
+.info img {
+    border: 0px;
+    margin: -3px -2px;
+}
+.portfolio {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 35px;
+    width: 735px;
+    float: left;
+    height: auto;
+    margin-bottom: 10px;
+}
+.portfolio img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.portfolio a {
+    color: #313131;
+}
+.portfolio a:hover {
+    text-decoration: none;
+}
+.bottom {
+    clear: both;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 400;
+    float: right;
+    width: 750px;
+}
+img {
+    border: 0px;
+    margin: 0px 5px;
+}
